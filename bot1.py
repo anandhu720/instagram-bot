@@ -14,7 +14,7 @@ username_input = browser.find_element_by_css_selector("input[name='username']")
 password_input = browser.find_element_by_css_selector("input[name='password']")
 
 username_input.send_keys("gjsjjsb16782")
-password_input.send_keys("adithyadev10")
+password_input.send_keys("**********")
 
 login_button = browser.find_element_by_xpath("//button[@type='submit']")
 login_button.click()
