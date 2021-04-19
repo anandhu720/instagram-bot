@@ -1,7 +1,7 @@
 from instapy import InstaPy
 from time import sleep
 
-session = InstaPy(username="gjsjjsb16782", password="adithyadev10").login()
+session = InstaPy(username="gjsjjsb16782", password="**********").login()
 session.login()
 #session.follow_by_tags(tags=["chsslyf"],amount=5)
 #session.follow_user_followers(["a_na_ndhu__"],amount=5)
